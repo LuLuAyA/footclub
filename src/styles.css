@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+html{
+    background-image: url("https://media.istockphoto.com/id/1320104418/fr/photo/fond-sportif-terrain-vert-dans-le-stade-de-football-pr%C3%AAt-pour-le-jeu-au-milieu-de-terrain.jpg?s=612x612&w=0&k=20&c=QK9FpLmC5yi0g-NdSxKw959nVF05TDt-pxy4wzt5eB0=");
+    background-size: 2000px
+}
+    h1{
+    text-align: center;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.bouton{
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
